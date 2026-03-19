@@ -140,3 +140,11 @@ footer{
     padding:15px;
     font-style: oblique;
 }
+
+/* Mobile */
+@media (max-width: 768px) {
+  .container {
+    width: 100%;
+    padding: 10px;
+  }
+}
